@@ -1,3 +1,4 @@
+"""Likelihood function and class for the DeepAR framework"""
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
