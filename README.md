@@ -23,7 +23,8 @@ it in the future since I learned a lot of undocumented features looking at the `
 source code.
 
 ## References
-[1] - David Salinas, et al. "DeepAR: Probabilistic forecasting with autoregressive recurrent networks". International Journal of Forecasting 36. 3(2020): 1181-1191. https://www.sciencedirect.com/science/article/pii/S0169207019301888
+[1] - David Salinas, et al. "DeepAR: Probabilistic forecasting with autoregressive recurrent networks". International Journal of Forecasting 36. 3 (2020): 1181-1191. https://www.sciencedirect.com/science/article/pii/S0169207019301888
+
 [2] - Lim Bryan and Zohren Stefan. 2021 Time-series forecasting with deep learning: a survey. Phil. Trans. R. Soc. A. 379: 20200209 20200209. http://doi.org/10.1098/rsta.2020.0209
 
 # Training Suggestions
