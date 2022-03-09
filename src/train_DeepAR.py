@@ -8,8 +8,9 @@ import torch.utils.data as data_utils
 import numpy as np
 from os import path
 from torch.autograd import Variable
-from sklearn.preprocessing import StandardScaler ,  MinMaxScaler
+from sklearn.preprocessing import StandardScaler, MinMaxScaler
 
+from Helper import *
 from DeepAR import DeepAR
 from DeepAR import loss_deepAR
 
